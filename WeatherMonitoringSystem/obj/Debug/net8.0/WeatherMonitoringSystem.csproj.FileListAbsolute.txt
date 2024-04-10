@@ -1,0 +1,14 @@
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\WeatherMonitoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\WeatherMonitoringSystem.AssemblyInfoInputs.cache
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\WeatherMonitoringSystem.AssemblyInfo.cs
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\WeatherMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\bin\Debug\net8.0\WeatherMonitoringSystem.exe
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\bin\Debug\net8.0\WeatherMonitoringSystem.deps.json
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\bin\Debug\net8.0\WeatherMonitoringSystem.runtimeconfig.json
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\bin\Debug\net8.0\WeatherMonitoringSystem.dll
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\bin\Debug\net8.0\WeatherMonitoringSystem.pdb
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\WeatherMonitoringSystem.dll
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\refint\WeatherMonitoringSystem.dll
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\WeatherMonitoringSystem.pdb
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\WeatherMonitoringSystem.genruntimeconfig.cache
+C:\Users\sprve\Desktop\Projects\Modular Development\WeatherMonitoringSystem\WeatherMonitoringSystem\obj\Debug\net8.0\ref\WeatherMonitoringSystem.dll
